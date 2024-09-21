@@ -1,4 +1,4 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Build-Ecommerce-Website-With-HTML-CSS-JavaScript
 
 ## Sections
 - Part1: Responsive Home Page Design.
